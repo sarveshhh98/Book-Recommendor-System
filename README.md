@@ -186,7 +186,7 @@ Source:
 
 Data Scientist | Machine Learning Engineer
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://linkedin.com/in/sarveshhh98
 
 GitHub: https://github.com/sarveshhh98
 
